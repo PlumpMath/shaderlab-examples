@@ -1,4 +1,4 @@
-﻿Shader "Cg basic color" { 	// defines the name of the shader 
+﻿Shader "Mosquito/Cg basic color" { 	// defines the name of the shader 
 
 	Properties {
 		_Color("Color", Color) = (1.0, 0.0, 0.0, 1.0)
