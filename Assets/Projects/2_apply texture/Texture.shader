@@ -7,7 +7,6 @@
 		CGPROGRAM
 
 			#pragma surface surf Lambert // use lambertian lighting model
-
 			sampler2D _MainTex; // input texture
 
 			struct Input {
