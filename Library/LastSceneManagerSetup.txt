@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Projects/3_normals/normals.unity
+  isLoaded: 1
+  isActive: 1

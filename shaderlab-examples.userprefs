@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Projects\1_Aply texture to material\Texturer.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Projects\3_normals\Normals.shader">
     <Files>
-      <File FileName="Assets\Projects\1_Aply texture to material\Texturer.shader" Line="18" Column="52" />
+      <File FileName="Assets\Projects\1_basic color\Color.shader" Line="1" Column="18" />
+      <File FileName="Assets\Projects\2_apply texture\Texture.shader" Line="18" Column="5" />
+      <File FileName="Assets\Projects\3_normals\Normals.shader" Line="24" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
